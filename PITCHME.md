@@ -6,10 +6,10 @@
 
 ## About our organisations
 
-### UK Python Association
-### PyCon UK Society
-### PyCon UK Society Ltd.
-### PyCon UK
+#### UK Python Association
+#### PyCon UK Society
+#### PyCon UK Society Ltd.
+#### PyCon UK
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## PyCon UK Society AGM
 
-### Motion to wind-up
+#### Motion to wind-up
 
 ---
 
@@ -33,14 +33,14 @@
 
 # UKPA AGM
 
-### Annual Accounts
-### Trustee Report
+#### Annual Accounts
+#### Trustee Report
 
 ---
 
 # UKPA AGM
 
-### Resignations
+#### Resignations
 
 ---
 
