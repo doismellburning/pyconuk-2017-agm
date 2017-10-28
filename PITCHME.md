@@ -4,12 +4,12 @@
 
 ---
 
-# About our organisations
+## About our organisations
 
-## UK Python Association
-## PyCon UK Society
-## PyCon UK Society Ltd.
-## PyCon UK
+### UK Python Association
+### PyCon UK Society
+### PyCon UK Society Ltd.
+### PyCon UK
 
 ---
 
@@ -17,41 +17,77 @@
 
 ---
 
-# PyCon UK Society AGM
+## PyCon UK Society AGM
 
 ---
 
-# PyCon UK Society AGM
+## PyCon UK Society AGM
 
-* Motion to wind-up
-
----
-
-# UKPA AGM
+### Motion to wind-up
 
 ---
 
 # UKPA AGM
 
-## Annual Accounts
-## Trustee Report
+---
+
+# UKPA AGM
+
+### Annual Accounts
+### Trustee Report
 
 ---
 
 # UKPA AGM
 
-## Resignations
+### Resignations
 
 ---
 
-# UKPA AGM Election
+## UKPA AGM Election
 
-## Owen Campbell
-## Peter Inglesby
-## Kristian Glass
-## Chloe Parkes
-## Kirk Northrop
-## Nicholas Tollervey
+### Owen Campbell
+### Peter Inglesby
+### Kristian Glass
+### Chloe Parkes
+### Kirk Northrop
+### Nicholas Tollervey
+
+---
+
+## UKPA AGM Election
+
+### Owen Campbell
+
+---
+
+## UKPA AGM Election
+
+### Peter Inglesby
+
+---
+
+## UKPA AGM Election
+
+### Kristian Glass
+
+---
+
+## UKPA AGM Election
+
+### Chloe Parkes
+
+---
+
+## UKPA AGM Election
+
+### Kirk Northrop
+
+---
+
+## UKPA AGM Election
+
+### Nicholas Tollervey
 
 ---
 
