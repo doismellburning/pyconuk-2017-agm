@@ -46,12 +46,12 @@
 
 ## UKPA AGM Election
 
-### Owen Campbell
-### Peter Inglesby
-### Kristian Glass
-### Chloe Parkes
-### Kirk Northrop
-### Nicholas Tollervey
+#### Owen Campbell
+#### Peter Inglesby
+#### Kristian Glass
+#### Chloe Parkes
+#### Kirk Northrop
+#### Nicholas Tollervey
 
 ---
 
